@@ -1,5 +1,4 @@
 # DevelopersHub-AIML-Internship-Task-2
-# DevelopersHub-AIML-Internship
 
 ## Stock Price Prediction
 
